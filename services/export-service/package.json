@@ -1,0 +1,28 @@
+{
+  "name": "export-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "canvas": "^3.2.0",
+    "chart.js": "^4.5.0",
+    "chartjs-chart-matrix": "^3.0.0",
+    "chartjs-node-canvas": "^5.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "exceljs": "^4.4.0",
+    "express": "^5.1.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "mysql2": "^3.14.4",
+    "pdfkit": "^0.17.2",
+    "pdfkit-table": "^0.1.99",
+    "pg": "^8.16.3"
+  }
+}
