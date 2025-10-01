@@ -25,3 +25,4 @@ This module provides insights into visitor activity and building usage within th
 ---
 
  This analytics backend ensures exhibition managers can monitor visitor patterns and make data-driven decisions.
+---
